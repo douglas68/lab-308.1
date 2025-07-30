@@ -88,4 +88,3 @@ const fuelMiles_C = 75; const fuelGallon_C = 23;
 // How long will the trip take, in hours?
 // Compare the results when traveling at an average of 55, 60, and 75 miles per hour. Which makes the most sense for the trip?
 
-const test=0;
